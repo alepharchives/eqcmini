@@ -1,6 +1,4 @@
 deps/
-ebin/
-*.beam
 priv/log/
 *.dump
 doc/*.html
